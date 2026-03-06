@@ -5,7 +5,7 @@ ODGOVORI NA VPRAŠANJA:\
 a)\
 E = PB11\
 RS = PB12\
-b)\ 
+b)\
 D4 = PB13\
 D5 = PB14\
 D6 = PB15\

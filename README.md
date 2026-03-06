@@ -8,3 +8,4 @@ b) D4 = PB13\
    D6 = PB15\
    D7 = PD8\
 e) Nova frekvenca bo 84 MHz, saj je največja frekvenca 168 MHz.\
+f) Hitrost podatkov na vodilih je nastavljena na Low (majhno hitrost).\

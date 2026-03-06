@@ -16,3 +16,6 @@ f) Hitrost podatkov na vodilih je nastavljena na Low (majhno hitrost).\
 h)\
 x: min = 0, max = 15\
 y: min = 0, max = 1\
+Funkcija itoa je okrajšava za integer to ASCII. Celo število (int) pretvori v niz znakov.\
+Funckijo itoa moramo uporabiti, saj LCD zasloni razumejo le posamezne znake (ASCII kode).\
+Tretji argument v tej funkciji nam pove številski sestav, v katerem bo vrednost prikazana (desetiški).\

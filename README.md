@@ -1,5 +1,12 @@
 # Vaja11-LCD2x16-STM32F0
 
+PINOUT MIKROPROCESORJA:\
+![konfig](https://github.com/Hudi452/Vaja11-LCD2x16-STM32F0/blob/main/Pinout_konfiguracija.png)
+
+FOTOGRAFIJA VEZAVE:\
+
+VIDEO DELOVANJA:\
+
 ODGOVORI NA VPRAŠANJA:\
 2.\
 a)\

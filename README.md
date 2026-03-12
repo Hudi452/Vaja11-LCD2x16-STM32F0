@@ -7,7 +7,7 @@ FOTOGRAFIJA VEZAVE:\
 ![vezje](https://github.com/Hudi452/Vaja11-LCD2x16-STM32F0/blob/main/Fotografija_vezave.jpg)
 
 VIDEO DELOVANJA:\
-
+![video](https://github.com/Hudi452/Vaja11-LCD2x16-STM32F0/blob/main/Video%20delovanja.gif)
 
 ODGOVORI NA VPRAŠANJA:\
 2.\

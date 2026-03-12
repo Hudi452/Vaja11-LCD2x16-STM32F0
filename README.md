@@ -4,8 +4,10 @@ PINOUT MIKROPROCESORJA:\
 ![konfig](https://github.com/Hudi452/Vaja11-LCD2x16-STM32F0/blob/main/Pinout_konfiguracija.png)
 
 FOTOGRAFIJA VEZAVE:\
+![vezje](https://github.com/Hudi452/Vaja11-LCD2x16-STM32F0/blob/main/Fotografija_vezave.jpg)
 
 VIDEO DELOVANJA:\
+
 
 ODGOVORI NA VPRAŠANJA:\
 2.\

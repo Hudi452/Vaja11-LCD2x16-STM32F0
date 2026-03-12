@@ -11,10 +11,9 @@ VIDEO DELOVANJA:\
 
 ODGOVORI NA VPRAŠANJA:\
 2.\
-a)\
+b)\
 E = PB11\
 RS = PB12\
-b)\
 D4 = PB13\
 D5 = PB14\
 D6 = PB15\

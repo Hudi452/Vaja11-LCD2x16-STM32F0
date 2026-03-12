@@ -27,3 +27,6 @@ y: min = 0, max = 1\
 Funkcija itoa je okrajšava za integer to ASCII. Celo število (int) pretvori v niz znakov.\
 Funckijo itoa moramo uporabiti, saj LCD zasloni razumejo le posamezne znake (ASCII kode).\
 Tretji argument v tej funkciji nam pove številski sestav, v katerem bo vrednost prikazana (desetiški).
+
+Komentar na delovanje:\
+Projekt deluje po pričakovanjih. Na LCD lahko s pomočjo funkcij, kot so TM_HD44780_Puts(), TM_HD44780_Clear(), TM_HD44780_ScrollRight prikazujemo, brišemo in premikamo poljubne znake oz. besede.
